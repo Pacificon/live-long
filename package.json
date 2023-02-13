@@ -1,0 +1,6 @@
+{
+  "homepage": "http://mywebsite.com/relativepath", 
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
