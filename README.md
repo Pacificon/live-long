@@ -1,8 +1,9 @@
 # Live Long
 
-![Website Screenshot]()
+![Screenshot 2023-08-03 200632](https://github.com/Pacificon/live-long/assets/96342610/1b1fc001-5fcd-4745-8a7e-329f1e9204fe)
 
 Live Long is a website that promotes healthy living and provides resources for improving physical and mental well-being.
+
 
 ## Table of Contents
 
