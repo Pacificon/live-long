@@ -38,14 +38,6 @@ The website is built using the following technologies:
 - CSS (Bootstrap)
 - JavaScript
 
-## Installation
-
-To run the project locally on your machine:
-
-1. Clone the repository: `git clone https://github.com/yourusername/live-long.git`
-2. Change into the project directory: `cd live-long`
-3. Open the `index.html` file in your web browser.
-
 ## Usage
 
 Follow these instructions to make the most out of Live Long:
@@ -73,5 +65,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or feedback, feel free to reach out:
 
-- Email: youremail@example.com
-- Website: www.yourwebsite.com
+- Email: prashanttiwari2585@gmail.com
