@@ -10,10 +10,8 @@ Live Long is a website that promotes healthy living and provides resources for i
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Demo
@@ -57,9 +55,6 @@ We welcome contributions to improve Live Long. To contribute:
 4. Push the changes to your fork: `git push origin feature/your-feature-name`
 5. Open a pull request to the original repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
